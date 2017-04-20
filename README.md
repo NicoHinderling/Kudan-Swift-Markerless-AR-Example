@@ -1,5 +1,5 @@
 # Kudan-Swift-Markerless-AR-Example
-An Example Swift App Featuring Kudan's Markerless AR :wave: :sparkles:
+I decided to create this project after struggling to find any examples of Kudan used with Swift. Hopefully this helps someone along the way :raised_hands:
 
 ## Build Instructions
 
