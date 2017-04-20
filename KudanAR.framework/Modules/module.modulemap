@@ -1,0 +1,6 @@
+framework module KudanAR {
+  umbrella header "KudanAR.h"
+
+  export *
+  module * { export * }
+}
